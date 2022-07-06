@@ -1,0 +1,7 @@
+
+ubuntu@ip-172-31-44-13:~/routing-example/src$ cat .env
+export REACT_APP_VAR=junko
+ubuntu@ip-172-31-44-13:~/routing-example/src$ source .env
+ubuntu@ip-172-31-44-13:~/routing-example/src$ echo $REACT_APP_VAR
+junko
+ubuntu@ip-172-31-44-13:~/routing-example/src$
